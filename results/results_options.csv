@@ -1,0 +1,5 @@
+period,what,yearly_%,worst_drop_%,return_per_unit_of_risk
+all years,PUT,8.6,-28.9,0.71
+all years,VOO,15.8,-34.0,0.91
+last 30%,PUT,13.7,-15.1,1.36
+last 30%,VOO,23.2,-18.7,1.48
