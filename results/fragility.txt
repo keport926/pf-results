@@ -1,0 +1,3 @@
+  Rule 3a (6 funds): yearly growth ranges 4.8% to 14.7% (middle 10.3%) vs VOO 15.8%; beat VOO in 0 of 21 start days
+  Rule 3b (4 funds): yearly growth ranges 8.5% to 14.4% (middle 12.1%) vs VOO 15.8%; beat VOO in 0 of 21 start days
+  Rule 4 (top 3 sectors): yearly growth ranges 8.7% to 11.5% (middle 10.0%) vs VOO 15.8%; beat VOO in 0 of 21 start days
