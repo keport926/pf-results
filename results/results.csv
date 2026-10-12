@@ -1,0 +1,11 @@
+rule,period,rule_yearly_%,VOO_yearly_%,your_mix_yearly_%,rule_worst_drop_%,VOO_worst_drop_%,trades,score_t,verdict
+Rule 1: 200-day trend,all years (after warm-up),12.2,15.8,15.1,-20.4,-34.0,50,-0.96,VOO wins
+Rule 1: 200-day trend,last 30% (untouched),18.9,23.3,22.6,-10.2,-18.7,50,-0.77,VOO wins
+Rule 2: buy the dip,all years (after warm-up),3.8,15.8,15.1,-14.6,-34.0,173,-2.34,VOO wins
+Rule 2: buy the dip,last 30% (untouched),7.2,23.3,22.6,-8.2,-18.7,173,-1.92,VOO wins
+Rule 3a: monthly winner (6 funds),all years (after warm-up),11.2,15.8,15.1,-27.4,-34.0,47,-0.58,VOO wins
+Rule 3a: monthly winner (6 funds),last 30% (untouched),31.4,23.3,22.6,-19.2,-18.7,47,0.63,Inconclusive
+Rule 3b: monthly winner (4 funds),all years (after warm-up),13.7,15.8,15.1,-28.6,-34.0,42,-0.47,VOO wins
+Rule 3b: monthly winner (4 funds),last 30% (untouched),15.8,23.3,22.6,-23.5,-18.7,42,-1.02,VOO wins
+Rule 4: top 3 sectors,all years (after warm-up),10.2,15.8,15.1,-31.3,-34.0,80,-1.66,VOO wins
+Rule 4: top 3 sectors,last 30% (untouched),9.6,23.3,22.6,-20.2,-18.7,80,-2.33,VOO wins
